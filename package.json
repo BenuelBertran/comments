@@ -2,8 +2,9 @@
   "name": "comments",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://benuelbertran.github.io/comments",
+  "homepage": "https://benuelbertran.github.io/comments",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
