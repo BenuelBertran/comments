@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ссылка на проект [Демо](https://benuelbertran.github.io/comments_gh-pages/).
 
 ## Available Scripts
 
