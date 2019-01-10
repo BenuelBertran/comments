@@ -31,7 +31,7 @@ class App extends React.Component {
 
   componentDidMount() {
     this.setState ({isLoading: true})
-    fetch ('https://github.com/BenuelBertran/comments/tree/gh-pages/data/commentsData.json')
+    fetch ('./data/commentsData.json')
       .then (response => {
         return response.json()
       })
